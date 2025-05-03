@@ -2,8 +2,8 @@
 //  ContentView.swift
 //  Small animation
 //
-//  Created by Kamilla Urunbaeva on 12/19/22.
-//
+
+
 
 import SwiftUI
 
